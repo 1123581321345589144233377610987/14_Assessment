@@ -1,0 +1,8 @@
+Spot,dog,Basset Hound,1
+Polly,bird,Parrot,1
+Goldie,hamster,Teddy Bear,2
+Merle,fish,Goldfish,3
+Hobbs,cat,Siamese,3
+Angel,cat,Siamese,3
+Bubba,dog,Sheepdog,4
+Prince,dog,Labrador,4
